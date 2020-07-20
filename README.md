@@ -13,6 +13,8 @@ though may be expanded to give gyroscope data.
 Typical circuit:
 ![MPU6050 circuit](MPU6050.png)
 
+Arduino library installation - add the *.zip file to Arduino IDE
+![library installation](library_installation.png)
 
 Supporting documentation
 MPU6050 Register Map:
