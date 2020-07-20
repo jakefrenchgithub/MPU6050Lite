@@ -14,7 +14,7 @@ Typical circuit:
 ![MPU6050 circuit](MPU6050.png)
 
 Arduino library installation - add the *.zip file to Arduino IDE
-![library installation](library_installation.png)
+![library installation](library_installation.PNG)
 
 Supporting documentation
 MPU6050 Register Map:
